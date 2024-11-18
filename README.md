@@ -1,2 +1,2 @@
 # pipelines
-Repo test curso devops IT
+Repo test curso devops Educacion IT
